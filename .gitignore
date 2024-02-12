@@ -1,0 +1,37 @@
+﻿# Temporary files
+__pycache__
+.pytest_cache
+__MACOSX
+.DS_Store
+
+# Environment
+venv/
+devenv/
+*.exe
+state.json
+requirements_full.txt
+poetry.lock
+poetry.lock.*
+
+# Config
+config.local.json
+*backup*
+
+# IDE files
+.idea
+.vscode
+
+# Other files
+share/
+DOC/
+temp/
+TMP/
+samples/
+allure/
+allure_results/
+video/
+screenshots/
+Logs/
+logs/
+*.log
+git.txt

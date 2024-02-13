@@ -1,4 +1,4 @@
-from utils.base.base_page_interface import BasePage
+from estelink.utils.base.base_page_interface import BasePage
 
 
 class HomePage(BasePage):

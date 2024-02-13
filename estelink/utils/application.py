@@ -2,8 +2,8 @@ from allure import step, attach
 from allure_commons.types import AttachmentType
 from datetime import datetime
 
-from utils.helpers.navigation import NavigationHelper
-from utils.pages.home_page import HomePage
+from estelink.utils.helpers.navigation import NavigationHelper
+from estelink.utils.pages.home_page import HomePage
 
 
 class Application:

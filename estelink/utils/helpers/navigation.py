@@ -7,3 +7,6 @@ class NavigationHelper(BasePage):
 
     async def refresh_page(self):
         await self.reload()
+
+    async def open_est(self) -> None:
+        await self.open("https://pre-master.devselink.ru/")

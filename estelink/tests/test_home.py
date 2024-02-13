@@ -1,5 +1,5 @@
 import pytest
-import allure
+
 from allure import (
     title,
     feature,
